@@ -36,6 +36,7 @@
         "@angular/core": "^9.0.0"
     },
     "dependencies": {
+        "@angular/cli": "^9.0.6",
         "@types/jquery": "^2.0.40",
         "ion-rangeslider": "^2.3.0",
         "rxjs": "^6.5.4",
