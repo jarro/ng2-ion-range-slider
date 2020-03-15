@@ -37,6 +37,8 @@
     },
     "dependencies": {
         "@types/jquery": "^2.0.40",
-        "ion-rangeslider": "^2.3.0"
+        "ion-rangeslider": "^2.3.0",
+        "rxjs": "^6.5.4",
+        "tslib": "^1.11.1"
     }
 }
